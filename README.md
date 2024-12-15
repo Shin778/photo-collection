@@ -1,4 +1,4 @@
-# My Photo Collection
+#Photo Collection App
 
 A simple photo collection app that lets you filter and search through categories of photos.
 
